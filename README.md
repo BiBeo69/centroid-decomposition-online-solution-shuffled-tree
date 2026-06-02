@@ -3,6 +3,7 @@
 An original competitive programming problem designed by me, based on a tree whose vertex colors are permuted after a shuffle operation.
 
 * **Platform:** MarisaOJ
+* **Rating:** 2400
 * **Main topics:** Centroid Decomposition, Heavy-Light Decomposition, Sparse Table, Tree Path Queries
 
 ## Problem Summary
